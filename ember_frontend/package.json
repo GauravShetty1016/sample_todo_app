@@ -1,7 +1,7 @@
 {
   "name": "ember-frontend",
   "version": "0.0.0",
-  "description": "Small description for ember-frontend goes here",
+  "description": "Sample TODO app to understand the latest ember app structure",
   "private": true,
   "directories": {
     "doc": "doc",
@@ -16,7 +16,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Gaurav Shetty",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",
@@ -31,6 +31,7 @@
     "ember-cli-jshint": "^1.0.0",
     "ember-cli-qunit": "^2.0.0",
     "ember-cli-release": "^0.2.9",
+    "ember-cli-sass": "5.5.1",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-test-loader": "^1.1.0",
     "ember-cli-uglify": "^1.2.0",

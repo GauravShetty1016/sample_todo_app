@@ -1,8 +1,12 @@
 {
   "name": "ember-frontend",
   "dependencies": {
-    "ember": "~2.7.0",
+    "ember": "release",
     "ember-cli-shims": "0.1.1",
-    "ember-qunit-notifications": "0.1.0"
+    "ember-qunit-notifications": "0.1.0",
+    "bootstrap": "^3.3.7"
+  },
+  "resolutions": {
+    "ember": ">=1.4"
   }
 }
